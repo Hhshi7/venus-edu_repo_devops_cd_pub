@@ -185,6 +185,7 @@ This architecture intentionally prioritizes **simplicity and reliability** over 
 
 ```
 ├── diagrams/
+│   ├── architecture.jpg         # Visual architecture diagram
 │   └── deployment_flow.jpg      # Visual deployment workflow
 ├── .github/
 │   └── workflows/
