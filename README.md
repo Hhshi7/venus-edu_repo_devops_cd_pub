@@ -178,6 +178,7 @@ This architecture intentionally prioritizes **simplicity and reliability** over 
 | **Infrastructure** | Raspberry Pi OS Lite, ARM64 architecture |
 | **Data** | SQLite with Docker volume persistence |
 | **Deployment** | SSH with key-based authentication, PowerShell automation |
+| **Self-hosted runner over GitHub-hosted** | Avoids exposing Raspberry Pi SSH to internet, keeps deployment traffic within trusted network |
 
 ---
 
